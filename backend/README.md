@@ -1,6 +1,8 @@
                             GovTech Assessment
 ### Manual Installation
 
+### Backend
+
 **Clone the repo:**
 
 ```
@@ -19,6 +21,8 @@ _Commands:_
 
 **Environment Variables:**
 The environment variables can be found and modified in the .env file. They come with these default values:
+
+** server running on port:8000
 
 
 **User routes:**
@@ -46,4 +50,7 @@ The paginate plugin adds the paginate static method to the mongoose schema.
 TODO - Tests need to be added
 
 
-**F
+## Frontend
+
+
+
