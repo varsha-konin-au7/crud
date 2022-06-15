@@ -16,13 +16,14 @@ npm install
 
 _Commands:_ 
 **Running locally:**
+``` cd backend ```
 ``` cd src ```
 ``` nodemon index.js ```
 
 **Environment Variables:**
 The environment variables can be found and modified in the .env file. They come with these default values:
 
-** server running on port:8000
+**server running on port:8000
 
 
 **User routes:**
@@ -51,6 +52,22 @@ TODO - Tests need to be added
 
 
 ## Frontend
+Install the dependencies:
+```
+npm install
+```
+
+_Commands:_ 
+**Running locally:**
+``` cd frontend ```
+``` npm start ```
+
+
+** frontend server running on port:3000
+
+
+
+
 
 
 
