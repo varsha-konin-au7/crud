@@ -1,10 +1,10 @@
-                             Ryde Assessment
+                            GovTech Assessment
 ### Manual Installation
 
 **Clone the repo:**
 
 ```
-git clone https://github.com/varsha-konin-au7/crud_assignment.git  
+git clone https://github.com/varsha-konin-au7/crud.git 
 ```
 
 Install the dependencies:
@@ -20,11 +20,6 @@ _Commands:_
 **Environment Variables:**
 The environment variables can be found and modified in the .env file. They come with these default values:
 
-**Auth routes:**
-```
-POST /v1/auth/register - register
-POST /v1/auth/login - login
-```
 
 **User routes:**
 ```
@@ -49,3 +44,6 @@ The paginate plugin adds the paginate static method to the mongoose schema.
 
 **Tests**
 TODO - Tests need to be added
+
+
+**F
