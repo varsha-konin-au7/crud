@@ -59,13 +59,11 @@ TODO - Tests need to be added
 _Commands:_ 
 **Running locally:**
 ``` cd frontend ```
-```
-npm install
-```
+```npm install```
 ``` npm start ```
 
 
-** frontend server running on port:3000
+**frontend server running on port:3000**
 
 
 
