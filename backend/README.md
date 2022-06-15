@@ -24,7 +24,7 @@ npm install
 **Environment Variables:**
 The environment variables can be found and modified in the .env file. They come with these default values:
 
-**server running on port:8000
+**server running on port:8000**
 
 
 **User routes:**
@@ -54,7 +54,7 @@ TODO - Tests need to be added
 
 ## Frontend
 
-```
+
 
 _Commands:_ 
 **Running locally:**
