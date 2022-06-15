@@ -9,14 +9,15 @@
 git clone https://github.com/varsha-konin-au7/crud.git 
 ```
 
-Install the dependencies:
-```
-npm install
-```
+
+
 
 _Commands:_ 
 **Running locally:**
 ``` cd backend ```
+```
+npm install
+```
 ``` cd src ```
 ``` nodemon index.js ```
 
@@ -52,14 +53,15 @@ TODO - Tests need to be added
 
 
 ## Frontend
-Install the dependencies:
-```
-npm install
+
 ```
 
 _Commands:_ 
 **Running locally:**
 ``` cd frontend ```
+```
+npm install
+```
 ``` npm start ```
 
 
